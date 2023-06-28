@@ -1,12 +1,16 @@
 
 import './App.css';
-import Location from './components/radio-checkbox/LocationSwitch';
+
+// import Location from './components/radio-checkbox/LocationSwitch.js';
 
 function App() {
   return (
     <div className="App">
-      <Location/>
+      <div className='main'>
+      {/* <Location/> */}
+      </div>
     </div>
+  
   );
 }
 
